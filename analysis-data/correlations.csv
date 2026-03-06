@@ -1,0 +1,4 @@
+,rating,projects,absences
+rating,1.0,0.07,-0.84
+projects,0.07,1.0,0.02
+absences,-0.84,0.02,1.0
