@@ -45,7 +45,7 @@ This visualization compares the **average number of tasks completed by each depa
 * **Engineering** shows moderate productivity.
 * **Finance and HR** have comparatively lower task counts.
 
-<img src="C:\Users\reddy\OneDrive\Pictures\Screenshots\output.png" width="800" alt="Average Tasks Completed">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output.png" width="800" alt="Average Tasks Completed">
 
 ### Conclusion
 Operational departments such as **Support and Sales handle higher workloads**, while administrative departments focus on **fewer but specialized tasks**.
