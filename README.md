@@ -22,34 +22,14 @@ This project includes analysis of the following key areas:
 * 📅 **Monthly performance trends**
 * 📉 **Department-wise absence percentage**
 
-These analyses help understand how **employee productivity and attendance impact overall organizational performance**.
-
 ---
 
 # 🛠 Tools & Technologies Used
 
-## Programming Language
-
-* **Python**
-
-## Data Analysis
-
-* **Pandas** – Data cleaning and manipulation
-* **NumPy** – Numerical computations
-
-## Data Visualization
-
-* **Matplotlib** – Data visualization and chart creation
-* **Seaborn** – Statistical visualization and correlation analysis
-
-## Development Environment
-
-* **Jupyter Notebook**
-* **VS Code**
-
-## Dataset Format
-
-* **CSV files**
+* **Python** (Pandas, NumPy)
+* **Visualization:** Matplotlib, Seaborn
+* **Environment:** Jupyter Notebook, VS Code
+* **Data Format:** CSV
 
 ---
 
@@ -60,14 +40,14 @@ These analyses help understand how **employee productivity and attendance impact
 This visualization compares the **average number of tasks completed by each department**.
 
 ### Insight
-
 * The **Support department** completes the highest number of tasks.
 * **Sales** also demonstrates strong productivity.
 * **Engineering** shows moderate productivity.
 * **Finance and HR** have comparatively lower task counts.
 
-### Conclusion
+<img src="C:\Users\reddy\OneDrive\Pictures\Screenshots\output.png" width="800" alt="Average Tasks Completed">
 
+### Conclusion
 Operational departments such as **Support and Sales handle higher workloads**, while administrative departments focus on **fewer but specialized tasks**.
 
 ---
@@ -77,12 +57,12 @@ Operational departments such as **Support and Sales handle higher workloads**, w
 This visualization shows the **average working hours of employees across departments**.
 
 ### Insight
-
 * Most departments work **approximately the same number of hours (~7 hours)**.
 * There is **very little variation** between departments.
 
-### Conclusion
+<img src="images/insight2.png" width="800" alt="Average Working Hours">
 
+### Conclusion
 The organization maintains a **balanced workload distribution**, ensuring employees across departments follow **similar working schedules**.
 
 ---
@@ -92,13 +72,13 @@ The organization maintains a **balanced workload distribution**, ensuring employ
 This heatmap illustrates the **relationship between employee ratings, project involvement, and absences**.
 
 ### Insight
-
 * There is a **strong negative correlation between absences and ratings (-0.84)**.
 * Employees with **higher absences tend to receive lower performance ratings**.
 * The relationship between **projects and ratings is very weak**.
 
-### Conclusion
+<img src="images/insight3.png" width="800" alt="Correlation Heatmap">
 
+### Conclusion
 Employee **attendance plays a significant role in performance evaluation**, often having more impact than the number of projects completed.
 
 ---
@@ -108,12 +88,12 @@ Employee **attendance plays a significant role in performance evaluation**, ofte
 This visualization tracks the **performance ratings of the top five employees over time**.
 
 ### Insight
-
 * Some employees demonstrate **steady improvement in their ratings**.
 * Others maintain **consistent performance levels across months**.
 
-### Conclusion
+<img src="images/insight4.png" width="800" alt="Top 5 Employee Trends">
 
+### Conclusion
 Top-performing employees generally maintain **stable performance**, with certain individuals showing **continuous improvement**.
 
 ---
@@ -123,12 +103,12 @@ Top-performing employees generally maintain **stable performance**, with certain
 This chart illustrates the **percentage of employee absences across departments**.
 
 ### Insight
-
 * The **Sales department** records the highest absence rate.
 * The **HR department** has the lowest absence rate.
 
-### Conclusion
+<img src="images/insight5.png" width="800" alt="Department Absences">
 
+### Conclusion
 Departments with **higher operational workloads may experience slightly higher absenteeism**, while HR maintains **strong attendance discipline**.
 
 ---
@@ -138,12 +118,12 @@ Departments with **higher operational workloads may experience slightly higher a
 This visualization analyzes **task productivity across months**.
 
 ### Insight
-
 * The average number of tasks remains **consistent across the months**.
 * There are **no major fluctuations in productivity levels**.
 
-### Conclusion
+<img src="images/insight6.png" width="800" alt="Monthly Task Trend">
 
+### Conclusion
 Employee productivity remains **stable over time**, indicating a **consistent workflow and balanced task allocation**.
 
 ---
@@ -158,12 +138,5 @@ Key takeaways from the analysis include:
 * **Top-performing employees maintain consistent productivity**
 * **Absenteeism varies slightly between departments**
 * **Overall productivity remains stable over time**
-
-These insights help organizations:
-
-* Improve **workforce planning**
-* Monitor **employee performance trends**
-* Identify **high-performing teams and employees**
-* Support **data-driven management decisions**
 
 ---
