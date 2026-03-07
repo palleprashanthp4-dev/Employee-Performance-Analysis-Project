@@ -70,7 +70,7 @@ This visualization shows the **average working hours of employees across departm
 * Most departments work **approximately the same number of hours (~7 hours)**.
 * There is **very little variation** between departments.
 
-<img src=https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output2.png?raw=true width="500" alt="Average Working Hours">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output2.png" ?raw=true width="500" alt="Average Working Hours">
 
 ### ᴄᴏɴᴄʟᴜsɪᴏɴ
 The organization maintains a **balanced workload distribution**, ensuring employees across departments follow **similar working schedules**.
