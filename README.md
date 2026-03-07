@@ -55,7 +55,7 @@ This visualization compares the **average number of tasks completed by each depa
 * **Engineering** shows moderate productivity.
 * **Finance and HR** have comparatively lower task counts.
 
-<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output.png" width="850" alt="Average Tasks Completed">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output.png" width="500" alt="Average Tasks Completed" align="center">
 
 ### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Operational departments such as **Support and Sales handle higher workloads**, while administrative departments focus on **fewer but specialized tasks**.
@@ -70,7 +70,7 @@ This visualization shows the **average working hours of employees across departm
 * Most departments work **approximately the same number of hours (~7 hours)**.
 * There is **very little variation** between departments.
 
-<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output2.png" width="500" alt="Average Working Hours">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output2.png" width="500" alt="Average Working Hours" align="center">
 
 ### ᴄᴏɴᴄʟᴜsɪᴏɴ
 The organization maintains a **balanced workload distribution**, ensuring employees across departments follow **similar working schedules**.
@@ -86,7 +86,7 @@ This heatmap illustrates the **relationship between employee ratings, project in
 * Employees with **higher absences tend to receive lower performance ratings**.
 * The relationship between **projects and ratings is very weak**.
 
-<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output3.png" width="850" alt="Correlation Heatmap">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output3.png" width="500" alt="Correlation Heatmap" align="center">
 
 ### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Employee **attendance plays a significant role in performance evaluation**, often having more impact than the number of projects completed.
@@ -101,7 +101,7 @@ This visualization tracks the **performance ratings of the top five employees ov
 * Some employees demonstrate **steady improvement in their ratings**.
 * Others maintain **consistent performance levels across months**.
 
-<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output4.png" width="850" alt="Top 5 Employee Trends">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output4.png" width="500" alt="Top 5 Employee Trends" align="center">
 
 ### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Top-performing employees generally maintain **stable performance**, with certain individuals showing **continuous improvement**.
@@ -116,7 +116,7 @@ This chart illustrates the **percentage of employee absences across departments*
 * The **Sales department** records the highest absence rate.
 * The **HR department** has the lowest absence rate.
 
-<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output5.png" width="850" alt="Department Absences">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output5.png" width="500" alt="Department Absences" align="center">
 
 ### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Departments with **higher operational workloads may experience slightly higher absenteeism**, while HR maintains **strong attendance discipline**.
@@ -131,7 +131,7 @@ This visualization analyzes **task productivity across months**.
 * The average number of tasks remains **consistent across the months**.
 * There are **no major fluctuations in productivity levels**.
 
-<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output6.png" width="850" alt="Monthly Task Trend">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output6.png" width="500" alt="Monthly Task Trend" align="center">
 
 ### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Employee productivity remains **stable over time**, indicating a **consistent workflow and balanced task allocation**.
