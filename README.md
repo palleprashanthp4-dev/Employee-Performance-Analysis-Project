@@ -1,6 +1,16 @@
-# 📊 Employee Performance Analysis (EDA)
+<div align="center">
 
-## 📌 Project Overview
+# █▓▒░ ᴇᴍᴘʟᴏʏᴇᴇ ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ ᴀɴᴀʟʏsɪs ░▒▓█
+### 📁 ᴅᴀᴛᴀ-ᴅʀɪᴠᴇɴ ᴡᴏʀᴋғᴏʀᴄᴇ ɪɴsɪɢʜᴛs (ᴇᴅᴀ)
+
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/)
+[![Analysis](https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/)
+
+</div>
+
+---
+
+## 📌 ᴘʀᴏᴊᴇᴄᴛ ᴏᴠᴇʀᴠɪᴇᴡ
 
 The **Employee Performance Analysis Project** explores and analyzes employee productivity data to understand **performance patterns, departmental efficiency, attendance impact, and productivity trends**.
 
@@ -10,7 +20,7 @@ The insights generated from this analysis help support **data-driven decision-ma
 
 ---
 
-# 🔍 Project Analysis Focus
+# 🔍 ᴘʀᴏᴊᴇᴄᴛ ᴀɴᴀʟʏsɪs ғᴏᴄᴜs
 
 This project includes analysis of the following key areas:
 
@@ -24,111 +34,111 @@ This project includes analysis of the following key areas:
 
 ---
 
-# 🛠 Tools & Technologies Used
+# 🛠 ᴛᴏᴏʟs & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ᴜsᴇᴅ
 
-* **Python** (Pandas, NumPy)
-* **Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook, VS Code
-* **Data Format:** CSV
+* **ᴘʏᴛʜᴏɴ** (Pandas, NumPy)
+* **ᴠɪsᴜᴀʟɪᴢᴀᴛɪᴏɴ:** Matplotlib, Seaborn
+* **ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ:** Jupyter Notebook, VS Code
+* **ᴅᴀᴛᴀ ғᴏʀᴍᴀᴛ:** CSV
 
 ---
 
-# 📈 Key Insights from Visualizations
+# 📈 ᴋᴇʏ ɪɴsɪɢʜᴛs ғʀᴏᴍ ᴠɪsᴜᴀʟɪᴢᴀᴛɪᴏɴs
 
-## 1️⃣ Average Tasks Completed by Department
+## 1️⃣ ᴀᴠᴇʀᴀɢᴇ ᴛᴀsᴋs ᴄᴏᴍᴘʟᴇᴛᴇᴅ ʙʏ ᴅᴇᴘᴀʀᴛᴍᴇɴᴛ
 
 This visualization compares the **average number of tasks completed by each department**.
 
-### Insight
+### ɪɴsɪɢʜᴛ
 * The **Support department** completes the highest number of tasks.
 * **Sales** also demonstrates strong productivity.
 * **Engineering** shows moderate productivity.
 * **Finance and HR** have comparatively lower task counts.
 
-<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output.png" width="800" alt="Average Tasks Completed">
+<img src="https://github.com/palleprashanthp4-dev/Employee-Performance-Analysis-Project/blob/main/screenshots/output.png" width="850" alt="Average Tasks Completed">
 
-### Conclusion
+### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Operational departments such as **Support and Sales handle higher workloads**, while administrative departments focus on **fewer but specialized tasks**.
 
 ---
 
-## 2️⃣ Average Working Hours by Department
+## 2️⃣ ᴀᴠᴇʀᴀɢᴇ ᴡᴏʀᴋɪɴɢ ʜᴏᴜʀs ʙʏ ᴅᴇᴘᴀʀᴛᴍᴇɴᴛ
 
 This visualization shows the **average working hours of employees across departments**.
 
-### Insight
+### ɪɴsɪɢʜᴛ
 * Most departments work **approximately the same number of hours (~7 hours)**.
 * There is **very little variation** between departments.
 
-<img src="C:\Users\reddy\OneDrive\Pictures\Screenshots\screenshots\output2.png" width="800" alt="Average Working Hours">
+<img src="images/output2.png" width="850" alt="Average Working Hours">
 
-### Conclusion
+### ᴄᴏɴᴄʟᴜsɪᴏɴ
 The organization maintains a **balanced workload distribution**, ensuring employees across departments follow **similar working schedules**.
 
 ---
 
-## 3️⃣ Correlation Between Rating, Projects, and Absences
+## 3️⃣ ᴄᴏʀʀᴇʟᴀᴛɪᴏɴ ʙᴇᴛᴡᴇᴇɴ ʀᴀᴛɪɴɢ, ᴘʀᴏᴊᴇᴄᴛs, ᴀɴᴅ ᴀʙsᴇɴᴄᴇs
 
 This heatmap illustrates the **relationship between employee ratings, project involvement, and absences**.
 
-### Insight
+### ɪɴsɪɢʜᴛ
 * There is a **strong negative correlation between absences and ratings (-0.84)**.
 * Employees with **higher absences tend to receive lower performance ratings**.
 * The relationship between **projects and ratings is very weak**.
 
-<img src="images/insight3.png" width="800" alt="Correlation Heatmap">
+<img src="images/insight3.png" width="850" alt="Correlation Heatmap">
 
-### Conclusion
+### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Employee **attendance plays a significant role in performance evaluation**, often having more impact than the number of projects completed.
 
 ---
 
-## 4️⃣ Top 5 Employee Rating Trends
+## 4️⃣ ᴛᴏᴘ 5 ᴇᴍᴘʟᴏʏᴇᴇ ʀᴀᴛɪɴɢ ᴛʀᴇɴᴅs
 
 This visualization tracks the **performance ratings of the top five employees over time**.
 
-### Insight
+### ɪɴsɪɢʜᴛ
 * Some employees demonstrate **steady improvement in their ratings**.
 * Others maintain **consistent performance levels across months**.
 
-<img src="images/insight4.png" width="800" alt="Top 5 Employee Trends">
+<img src="images/insight4.png" width="850" alt="Top 5 Employee Trends">
 
-### Conclusion
+### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Top-performing employees generally maintain **stable performance**, with certain individuals showing **continuous improvement**.
 
 ---
 
-## 5️⃣ Department-wise Absence Percentage
+## 5️⃣ ᴅᴇᴘᴀʀᴛᴍᴇɴᴛ-ᴡɪsᴇ ᴀʙsᴇɴᴄᴇ ᴘᴇʀᴄᴇɴᴛᴀɢᴇ
 
 This chart illustrates the **percentage of employee absences across departments**.
 
-### Insight
+### ɪɴsɪɢʜᴛ
 * The **Sales department** records the highest absence rate.
 * The **HR department** has the lowest absence rate.
 
-<img src="images/insight5.png" width="800" alt="Department Absences">
+<img src="images/insight5.png" width="850" alt="Department Absences">
 
-### Conclusion
+### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Departments with **higher operational workloads may experience slightly higher absenteeism**, while HR maintains **strong attendance discipline**.
 
 ---
 
-## 6️⃣ Monthly Task Trend
+## 6️⃣ ᴍᴏɴᴛʜʟʏ ᴛᴀsᴋ ᴛʀᴇɴᴅ
 
 This visualization analyzes **task productivity across months**.
 
-### Insight
+### ɪɴsɪɢʜᴛ
 * The average number of tasks remains **consistent across the months**.
 * There are **no major fluctuations in productivity levels**.
 
-<img src="images/insight6.png" width="800" alt="Monthly Task Trend">
+<img src="images/insight6.png" width="850" alt="Monthly Task Trend">
 
-### Conclusion
+### ᴄᴏɴᴄʟᴜsɪᴏɴ
 Employee productivity remains **stable over time**, indicating a **consistent workflow and balanced task allocation**.
 
 ---
 
-# 🎯 Final Business Insights
+# 🎯 ғɪɴᴀʟ ʙᴜsɪɴᴇss ɪɴsɪɢʜᴛs
 
 Key takeaways from the analysis include:
 
@@ -140,3 +150,7 @@ Key takeaways from the analysis include:
 * **Overall productivity remains stable over time**
 
 ---
+
+<div align="center">
+    <b>ᴘʀᴏᴊᴇᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴘʀᴀsʜᴀɴᴛʜ</b>
+</div>
